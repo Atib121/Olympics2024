@@ -6,7 +6,7 @@ This repository contains an interactive Power BI dashboard analyzing the **Paris
 
 ## 📊 Dashboard Overview
 
-![Olympics Dashboard](./Olympics24.1.png)
+https://github.com/Atib121/Olympics2024/blob/main/Customize_button_Top5.png
 
 ---
 
